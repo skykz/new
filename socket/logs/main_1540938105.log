@@ -1,0 +1,69 @@
+[2018-10-30T22:21:45.940] [TRACE] default - [INFO] Connected to database!
+[2018-10-30T22:21:46.128] [INFO] default - Bot -1219 (vgoskins.pro) got from OPSkins!
+[2018-10-30T22:21:46.133] [INFO] default - Commission change done!
+[2018-10-30T22:21:46.220] [INFO] default - All Items loaded. Total items loaded: 321
+[2018-10-30T22:21:46.386] [INFO] default - CaseSchema loaded successfully! Total cases loaded: 6
+[2018-10-30T22:28:29.980] [ERROR] default - [ERROR]
+[2018-10-30T22:28:29.982] [ERROR] default - TypeError: Cannot read property 'mute' of undefined
+    at Socket.<anonymous> (/var/www/socket/main.js:312:32)
+    at emitTwo (events.js:106:13)
+    at Socket.emit (events.js:191:7)
+    at /var/www/node_modules/socket.io/lib/socket.js:503:12
+    at args.(anonymous function) (/usr/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+[2018-10-31T06:27:54.354] [ERROR] default - [ERROR] Syntax "Error: Connection lost: The server closed the connection."
+[2018-10-31T06:27:54.358] [ERROR] default - { Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:91:20)
+    at Socket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:978:12)
+    at args.(anonymous function) (/usr/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9) fatal: true, code: 'PROTOCOL_CONNECTION_LOST' }
+[2018-10-31T06:27:54.361] [TRACE] default - [INFO] Trying to reconnect to database...
+[2018-10-31T06:27:56.873] [TRACE] default - [INFO] Connected to database!
+[2018-10-31T18:02:50.100] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:05:10.590] [INFO] default - User 76561198863884847 created trade #7374906 for 1 of keys!
+[2018-10-31T18:05:10.592] [INFO] default - checkUserOpenCase #7374906 
+[2018-10-31T18:07:03.202] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:07:36.114] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:07:40.200] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:08:23.986] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:08:44.748] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:09:05.790] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-10-31T18:09:18.319] [INFO] default - User 76561198355622694 created trade #7375199 for 1 of keys!
+[2018-10-31T18:09:18.323] [INFO] default - checkUserOpenCase #7375199 
+[2018-10-31T18:09:40.835] [INFO] default - Offer #7374906 cancelled due to 90 tries!
+[2018-10-31T18:10:14.628] [INFO] default - Trade #7375199 successfully accepted and user got items!
+[2018-10-31T18:11:34.204] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:12:24.857] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:15:42.419] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:21:35.557] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:22:07.861] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:22:24.993] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:23:23.972] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:24:39.398] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-10-31T18:25:20.781] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:38:23.771] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-10-31T18:42:16.403] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T04:25:16.661] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-01T17:09:09.809] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:10:47.547] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:18:10.372] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:23:12.339] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:24:46.521] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:26:23.199] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:28:11.234] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:30:54.391] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:33:25.290] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:37:37.230] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:40:24.237] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:41:38.848] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:43:31.195] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:45:04.876] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:45:29.813] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:48:48.272] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T17:54:40.955] [INFO] default - User 76561198863884847 loaded with 1 keys!

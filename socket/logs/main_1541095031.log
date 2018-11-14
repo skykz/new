@@ -1,0 +1,162 @@
+[2018-11-01T17:57:11.344] [TRACE] default - [INFO] Connected to database!
+[2018-11-01T17:57:11.556] [INFO] default - Bot -1225 (vgocraft) got from OPSkins!
+[2018-11-01T17:57:11.569] [INFO] default - Commission change done!
+[2018-11-01T17:57:11.640] [INFO] default - All Items loaded. Total items loaded: 321
+[2018-11-01T17:57:11.851] [INFO] default - CaseSchema loaded successfully! Total cases loaded: 6
+[2018-11-01T18:53:51.927] [INFO] default - User 76561198863884847 loaded with 1 keys!
+[2018-11-01T18:55:33.458] [INFO] default - User 76561198863884847 created trade #7433066 for 1 of keys!
+[2018-11-01T18:55:33.459] [INFO] default - checkUserOpenCase #7433066 
+[2018-11-01T18:56:11.817] [INFO] default - Trade #7433066 successfully accepted and user got items!
+[2018-11-01T19:10:00.695] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T04:56:24.665] [ERROR] default - [ERROR] Syntax "Error: Connection lost: The server closed the connection."
+[2018-11-02T04:56:24.669] [ERROR] default - { Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:91:20)
+    at Socket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:978:12)
+    at args.(anonymous function) (/usr/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9) fatal: true, code: 'PROTOCOL_CONNECTION_LOST' }
+[2018-11-02T04:56:24.673] [TRACE] default - [INFO] Trying to reconnect to database...
+[2018-11-02T04:56:27.186] [TRACE] default - [INFO] Connected to database!
+[2018-11-02T12:30:17.916] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T12:49:18.221] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T13:03:29.126] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T14:44:05.088] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:10:33.593] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:12:34.099] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:14:45.691] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:17:32.207] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:32:01.526] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:34:49.510] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:39:47.200] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T15:52:51.969] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:21:48.666] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:24:32.115] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:26:52.259] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:27:14.835] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:28:47.748] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:28:53.915] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:29:21.193] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:30:40.115] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:33:13.389] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:34:31.454] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:35:10.650] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:42:14.956] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T16:48:27.327] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:52:08.533] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:57:34.334] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T16:58:55.366] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:03:54.002] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:06:16.357] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:08:11.483] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:10:13.491] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:11:13.132] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:16:03.874] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:17:09.828] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:21:57.655] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:24:47.618] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:25:54.545] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:26:30.128] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:27:34.209] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-11-02T17:27:47.543] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-11-02T17:27:54.982] [INFO] default - User 76561198355622694 created trade #7482012 for 1 of keys!
+[2018-11-02T17:27:54.984] [INFO] default - checkUserOpenCase #7482012 
+[2018-11-02T17:28:27.324] [INFO] default - Trade #7482012 successfully accepted and user got items!
+[2018-11-02T17:29:28.258] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:31:57.842] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:32:18.975] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T17:34:27.342] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:35:29.217] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T17:36:57.410] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:40:16.601] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T17:41:52.808] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:48:25.892] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:49:55.802] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:50:26.322] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:53:35.256] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:55:00.734] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T17:56:53.461] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:00:05.118] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:04:56.926] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:09:01.995] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:12:19.916] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:13:28.328] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:15:52.609] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:16:58.684] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:17:08.325] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-11-02T18:17:15.213] [INFO] default - User 76561198355622694 created trade #7485107 for 1 of keys!
+[2018-11-02T18:17:15.215] [INFO] default - checkUserOpenCase #7485107 
+[2018-11-02T18:17:39.089] [INFO] default - Trade #7485107 successfully accepted and user got items!
+[2018-11-02T18:20:04.832] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:22:55.294] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:27:06.381] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:28:00.816] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:28:25.936] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:29:45.569] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T18:36:14.000] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:37:45.743] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:52:39.331] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T18:59:06.426] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T19:16:24.406] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-02T19:20:30.236] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T19:24:37.038] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-02T19:28:39.322] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-03T10:37:35.687] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-03T15:51:47.909] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-03T16:52:25.348] [INFO] default - User 76561198292108193 loaded with 0 keys!
+[2018-11-03T16:52:35.851] [INFO] default - User 76561198292108193 loaded with 0 keys!
+[2018-11-04T00:52:35.857] [ERROR] default - [ERROR] Syntax "Error: Connection lost: The server closed the connection."
+[2018-11-04T00:52:35.860] [ERROR] default - { Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:91:20)
+    at Socket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:978:12)
+    at args.(anonymous function) (/usr/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9) fatal: true, code: 'PROTOCOL_CONNECTION_LOST' }
+[2018-11-04T00:52:35.864] [TRACE] default - [INFO] Trying to reconnect to database...
+[2018-11-04T00:52:38.375] [TRACE] default - [INFO] Connected to database!
+[2018-11-05T03:43:24.060] [ERROR] default - [ERROR] Syntax "Error: Connection lost: The server closed the connection."
+[2018-11-05T03:43:24.063] [ERROR] default - { Error: Connection lost: The server closed the connection.
+    at Protocol.end (/var/www/node_modules/mysql/lib/protocol/Protocol.js:112:13)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:97:28)
+    at Socket.<anonymous> (/var/www/node_modules/mysql/lib/Connection.js:502:10)
+    at emitNone (events.js:91:20)
+    at Socket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:978:12)
+    at args.(anonymous function) (/usr/lib/node_modules/pm2/node_modules/event-loop-inspector/index.js:138:29)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+    at process._tickCallback (internal/process/next_tick.js:104:9) fatal: true, code: 'PROTOCOL_CONNECTION_LOST' }
+[2018-11-05T03:43:24.066] [TRACE] default - [INFO] Trying to reconnect to database...
+[2018-11-05T03:43:26.575] [TRACE] default - [INFO] Connected to database!
+[2018-11-05T10:07:13.213] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-05T12:21:10.463] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T12:22:28.381] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-11-05T12:22:35.107] [INFO] default - User 76561198355622694 created trade #7637736 for 1 of keys!
+[2018-11-05T12:22:35.108] [INFO] default - checkUserOpenCase #7637736 
+[2018-11-05T12:23:10.396] [INFO] default - Trade #7637736 successfully accepted and user got items!
+[2018-11-05T12:24:09.115] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T12:26:53.637] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T12:27:25.420] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T12:44:29.550] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T13:27:02.247] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T14:57:55.368] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T15:10:20.404] [INFO] default - User 76561198355622694 loaded with 1 keys!
+[2018-11-05T15:10:28.052] [INFO] default - User 76561198355622694 created trade #7643720 for 1 of keys!
+[2018-11-05T15:10:28.053] [INFO] default - checkUserOpenCase #7643720 
+[2018-11-05T15:10:57.344] [INFO] default - Trade #7643720 successfully accepted and user got items!
+[2018-11-05T15:12:08.928] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T15:22:57.204] [INFO] default - User 76561198863884847 loaded with 0 keys!
+[2018-11-05T15:31:16.683] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T15:33:11.153] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T15:34:13.103] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T15:53:59.822] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T16:00:24.352] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T16:01:46.070] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T16:06:26.161] [INFO] default - User 76561198355622694 loaded with 0 keys!
+[2018-11-05T16:07:35.412] [INFO] default - User 76561198355622694 loaded with 0 keys!

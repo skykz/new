@@ -1,0 +1,27 @@
+[2018-11-05T16:54:42.213] [TRACE] default - [INFO] Connected to database!
+[2018-11-05T16:54:42.368] [ERROR] default - Error on commission change: API Key Required
+[2018-11-05T16:54:42.380] [ERROR] default - [ERROR]
+[2018-11-05T16:54:42.381] [ERROR] default - TypeError: Cannot read property 'user' of undefined
+    at /var/www/socket/main.js:75:30
+    at Request._callback (/var/www/socket/main.js:66:13)
+    at Request.self.callback (/var/www/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/var/www/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/var/www/node_modules/request/request.js:1083:12)
+    at IncomingMessage.g (events.js:292:16)
+[2018-11-05T16:54:42.385] [ERROR] default - Error getting AllItems
+[2018-11-05T16:54:42.386] [ERROR] default - [ERROR]
+[2018-11-05T16:54:42.386] [ERROR] default - TypeError: "callback" argument must be a function
+    at exports.setTimeout (timers.js:348:11)
+    at /var/www/socket/main.js:623:13
+    at Request._callback (/var/www/socket/main.js:66:13)
+    at Request.self.callback (/var/www/node_modules/request/request.js:185:22)
+    at emitTwo (events.js:106:13)
+    at Request.emit (events.js:191:7)
+    at Request.<anonymous> (/var/www/node_modules/request/request.js:1161:10)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at IncomingMessage.<anonymous> (/var/www/node_modules/request/request.js:1083:12)
